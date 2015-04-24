@@ -1,0 +1,5 @@
+a_bdatabase:
+    resource: "@ABdatabaseBundle/Controller"
+    type:     annotation
+    #prefix:   /
+    #defaults: { _controller: 'ABdatabaseBundle:DatabaseBasic:index' }
